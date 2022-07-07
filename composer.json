@@ -1,0 +1,23 @@
+{
+  "name": "radicamart/lib_env",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Dmitrii Cymbal",
+      "email": "cymbal@delo-design.ru"
+    },
+    {
+      "name": "Artem Vasilev",
+      "email": "kern.usr@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3.0",
+    "ext-simplexml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Env\\": "Env/"
+    }
+  }
+}

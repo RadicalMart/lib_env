@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.9" type="library" method="upgrade">
+	<name>LIB_ENV</name>
+	<libraryname>lib_env</libraryname>
+	<author>RZTrade</author>
+	<creationDate>2021</creationDate>
+	<copyright>commerce</copyright>
+	<license>commerce</license>
+	<version>1.3.5</version>
+	<description>Library for load ENV variables</description>
+
+	<files>
+		<folder>Env</folder>
+	</files>
+</extension>
